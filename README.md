@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B166er-1994
-- 👀 I’m interested in ... learn as most as i can about Software Development technologies.
-- 🌱 I’m currently learning ... UNO Platform, Blazor, Angular,React and some more stuf..
+- 👀 I’m interested in ...  Software Development technologies related to C#.
+- 🌱 I’m currently learning ... .Net MAUI, Blazor.
 - 💞️ I’m looking to collaborate on ... any interesting software project ...  
 - 📫 How to reach me ... ramosfeliberto695@gmail.com
 
